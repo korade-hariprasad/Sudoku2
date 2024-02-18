@@ -1,0 +1,14 @@
+E:\MyPro\SUDOKU2\SUDOKU2\bin\Debug\SUDOKU2.exe.config
+E:\MyPro\SUDOKU2\SUDOKU2\bin\Debug\SUDOKU2.exe
+E:\MyPro\SUDOKU2\SUDOKU2\bin\Debug\SUDOKU2.pdb
+E:\MyPro\SUDOKU2\SUDOKU2\bin\Debug\SUDOKU2.xml
+E:\MyPro\SUDOKU2\SUDOKU2\obj\Debug\SUDOKU2.vbprojResolveAssemblyReference.cache
+E:\MyPro\SUDOKU2\SUDOKU2\obj\Debug\SUDOKU2.Game_On.resources
+E:\MyPro\SUDOKU2\SUDOKU2\obj\Debug\SUDOKU2.How_To_Play.resources
+E:\MyPro\SUDOKU2\SUDOKU2\obj\Debug\SUDOKU2.Resources.resources
+E:\MyPro\SUDOKU2\SUDOKU2\obj\Debug\SUDOKU2.Select_Difficulty.resources
+E:\MyPro\SUDOKU2\SUDOKU2\obj\Debug\SUDOKU2.SUDOKU.resources
+E:\MyPro\SUDOKU2\SUDOKU2\obj\Debug\SUDOKU2.vbproj.GenerateResource.Cache
+E:\MyPro\SUDOKU2\SUDOKU2\obj\Debug\SUDOKU2.exe
+E:\MyPro\SUDOKU2\SUDOKU2\obj\Debug\SUDOKU2.xml
+E:\MyPro\SUDOKU2\SUDOKU2\obj\Debug\SUDOKU2.pdb
